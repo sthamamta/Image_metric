@@ -1,0 +1,1 @@
+IN this code we find the corresponding matching image index between 25 micron and 50 micron images. The matching index is found based on the minimum value of different metrics such as MSE, PSNR, SSIM.
