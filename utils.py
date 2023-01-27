@@ -58,6 +58,9 @@ def find_index(hr_array, lr_array, metric='mse'):
         index_match = find_index_max(hr_array, lr_array, metric)
     elif metric in ['mse', 'nrmse','hfen']:
         index_match = find_index_min(hr_array, lr_array, metric)
+    else:
+        index_match = None
+        print("Metric not implemented", metric)
     return index_match
 
 
