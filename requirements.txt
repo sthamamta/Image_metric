@@ -1,0 +1,7 @@
+matplotlib==3.5.0
+nibabel==3.2.1+159.g4703f4d8
+numpy==1.19.2
+opencv_python==4.5.5.62
+scipy==1.7.3
+torch==1.7.1
+torchvision==0.2.2
