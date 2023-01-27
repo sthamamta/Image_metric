@@ -12,6 +12,7 @@ from utils import *
 
 datapath_hr = 'OneDrive/AD_P522R_F5_153/MRI_25um/mag_sos_wn.nii'
 datapath_lr = 'OneDrive/AD_P522R_F5_153/MRI_50um/mag_sos_wn.nii'
+
 subscript = 'f5_153'
 
 #define image metric 
